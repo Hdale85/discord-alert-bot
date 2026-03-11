@@ -1,0 +1,18 @@
+{
+  "webhook_url": "https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN",
+  "max_new_per_run": 5,
+  "feeds": [
+    {
+      "name": "Hacker News Top Stories",
+      "url": "https://news.ycombinator.com/rss"
+    },
+    {
+      "name": "r/Python New Posts",
+      "url": "https://www.reddit.com/r/Python/new/.rss"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/"
+    }
+  ]
+}
